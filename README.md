@@ -279,8 +279,8 @@ B.Tech Artificial Intelligence Student
 
 GitHub: https://github.com/Lalita0008
 
-LinkedIn: https://www.linkedin.com/in/lalita-jhapate-61b899353
+
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star.
+## ⭐ Thank you for taking the time to explore this project!
